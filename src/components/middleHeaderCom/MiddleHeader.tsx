@@ -6,7 +6,7 @@ export default function MiddleHeader() {
     {
       number: 2.5,
       content1: "YEARS OF HANDS",
-      content2: "OWN EXPERIENCE",
+      content2: "ON EXPERIENCE",
     },
     {
       number: 4,
