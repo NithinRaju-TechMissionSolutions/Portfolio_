@@ -11,10 +11,10 @@ interface TextSprtBlockProps {
   }: TextSprtBlockProps) {
     return (
       <section className="flex items-center text-xl text-white">
-        <h1 className="text-center px-2 text-7xl font-semibold">
+        <h1 className="text-center px-2 text-5xl md:text-7xl font-semibold">
           {number}
         </h1>
-        <div className="font-semibold">
+        <div className="text-xs md:text-xl font-semibold">
           <h1>{content1}</h1>
           <h1>{content2}</h1>
         </div>

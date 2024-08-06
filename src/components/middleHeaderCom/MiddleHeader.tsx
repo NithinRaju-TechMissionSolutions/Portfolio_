@@ -15,7 +15,8 @@ export default function MiddleHeader() {
     },
   ];
   return (
-    <main className="px-16 py-4 flex justify-start items-center gap-10 bg-darkPurple">
+    <main className="px-6 md:px-16 py-4 flex flex-col md:flex-row justify-start items-center gap-14 md:gap-10 bg-darkPurple">
+      <div className="flex gap-4 md:gap-20">
       {contentData.map((elm) => (
         <TextSprtBlock
           key={elm.number}
@@ -25,6 +26,7 @@ export default function MiddleHeader() {
         />
       ))}
 
+      </div>
       <section className="flex gap-5">
         {stackList.map((elm, i) => (
           <img
