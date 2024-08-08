@@ -52,7 +52,7 @@ const projectData = [
     about:
       "Basic e-commerce website made using Nodejs and Expressjs with server side rendering and database using MongoDb",
     img: dressUpLandImg,
-    liveLink: "https://dressupland.nithin.website/",
+    liveLink: "https://dressupland.store/",
     codeLink: "https://github.com/NithinRajuOfficial/DressUpLand",
     liveSite: liveSiteLink,
     github: githubLink,

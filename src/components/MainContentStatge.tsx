@@ -9,7 +9,7 @@ export default function MainContainer() {
     >
       <div className="self-start flex-1">
         <h1 className="text-3xl font-semibold pb-2 ">About Me</h1>
-        <p className="text-lg font-normal leading-8 text-wrap">
+        <p className="text-xl font-normal leading-8 text-wrap">
           Hello! I'm Nithin Raju, a passionate MERN stack developer who thrives
           on creating dynamic and responsive web applications. With expertise in
           MongoDB, Express.js, React.js, and Node.js, I specialize in building
