@@ -30,7 +30,7 @@ export default function SubHeader() {
 
     const loader = new GLTFLoader();
     loader.load(
-      "/src/assets/models/scene.gltf",
+      "/models/scene.gltf",
       (gltf) => {
         const model = gltf.scene;
         model.scale.set(1.5, 1.5, 1.5);
