@@ -117,28 +117,28 @@ const socialMediaList = [
 const contactEmail = "nithinraju242@gmail.com";
 
 const projectData = [
-  {
-    name: "DressUpLand",
-    about:
-      "Basic e-commerce website made using Nodejs and Expressjs with server side rendering and database using MongoDb",
-    tech: ["Node.js", "Express.js", "MongoDB"],
-    img: dressUpLandImg,
-    // liveLink: "https://dressupland.store/",
-    codeLink: "https://github.com/NithinRajuOfficial/DressUpLand",
-    // liveSite: liveSiteLink,
-    github: githubLink,
-  },
-  {
-    name: "TravelFreaks",
-    about:
-      "Social media platform for travelers made using ReactJs in frontend and Nodejs, Expressjs in backend and database using MongoDb",
-    tech: ["React", "Node.js", "Express.js", "MongoDB"],
-    img: travelFreaksImg,
-    // liveLink: "https://travelfreaks.nithin.website/",
-    codeLink: "https://github.com/NithinRajuOfficial/Travel-Freaks",
-    // liveSite: liveSiteLink,
-    github: githubLink,
-  },
+  // {
+  //   name: "DressUpLand",
+  //   about:
+  //     "Basic e-commerce website made using Nodejs and Expressjs with server side rendering and database using MongoDb",
+  //   tech: ["Node.js", "Express.js", "MongoDB"],
+  //   img: dressUpLandImg,
+  //   // liveLink: "https://dressupland.store/",
+  //   codeLink: "https://github.com/NithinRajuOfficial/DressUpLand",
+  //   // liveSite: liveSiteLink,
+  //   github: githubLink,
+  // },
+  // {
+  //   name: "TravelFreaks",
+  //   about:
+  //     "Social media platform for travelers made using ReactJs in frontend and Nodejs, Expressjs in backend and database using MongoDb",
+  //   tech: ["React", "Node.js", "Express.js", "MongoDB"],
+  //   img: travelFreaksImg,
+  //   // liveLink: "https://travelfreaks.nithin.website/",
+  //   codeLink: "https://github.com/NithinRajuOfficial/Travel-Freaks",
+  //   // liveSite: liveSiteLink,
+  //   github: githubLink,
+  // },
   {
     name: "StegoVault",
     about:
